@@ -1,0 +1,26 @@
+/*
+Theme Name: Traveler FSE
+Theme URI: https://github.com/gilsonviana/wordpress-fse-theme.git
+Author: Gilson Viana <vianawebdev@gmail.com>
+Author URI: https://github.com/gilsonviana
+Description: A custom Marriott Traveler theme built for WordPress with Full Site Editing (FSE) capabilities.
+Requires at least: 5.6
+Tested up to: 5.8
+Requires PHP: 5.6
+Version: 0.4.8
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: traveler-fse
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
+
+Traveler FSE Theme, (C) 2022 WordPress.org
+Traveler FSE Theme is distributed under the terms of the GNU GPL.
+*/
+
+/*--------------------------------------------------------------
+# Defaults
+--------------------------------------------------------------*/
+
+body {
+	margin: 0;
+}
